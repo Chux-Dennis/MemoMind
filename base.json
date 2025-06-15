@@ -1,0 +1,15 @@
+{
+  "What is JavaScript?": "JavaScript is a scripting language used to create dynamic content on websites.",
+  "What is Python?": "Python is a high-level, interpreted programming language known for its readability and versatility.",
+  "What is an API?": "An API (Application Programming Interface) allows different software systems to communicate with each other.",
+  "What is machine learning?": "Machine learning is a subset of AI that allows systems to learn and improve from data without being explicitly programmed.",
+  "What is a REST API?": "A REST API is an architectural style for creating web services using HTTP requests.",
+  "What is Git?": "Git is a version control system that helps track changes in source code during software development.",
+  "What is a JSON file?": "JSON (JavaScript Object Notation) is a lightweight format for storing and transporting data.",
+  "What is Node.js?": "Node.js is a runtime environment that allows you to run JavaScript on the server side.",
+  "What is a function in programming?": "A function is a block of code that performs a specific task and can be reused.",
+  "What is OpenAI?": "OpenAI is an AI research organization known for developing advanced AI models like ChatGPT and GPT-4.",
+  "What is the difference between frontend and backend?": "Frontend is what users see (UI), while backend handles logic, database, and server-side functions.",
+  "How does a chatbot work?": "A chatbot processes user input, finds matching responses (using rules or AI), and returns an appropriate reply.",
+  " Heard of python?": "Python is a high-level labugauge "
+}

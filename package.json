@@ -1,0 +1,17 @@
+{
+  "name": "memomind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^24.0.1",
+    "@types/string-similarity": "^4.0.2",
+    "string-similarity": "^4.0.4"
+  }
+}
